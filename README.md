@@ -14,5 +14,5 @@ Build a system that intake the information from Raspberry Pi's GUI, translate in
 ## Software:
 - Python IDE
 
-## Project running demo:
+## Project running demonstration:
 https://youtu.be/6Kfq2JzGKOo
